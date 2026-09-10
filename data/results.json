@@ -1,0 +1,379 @@
+{
+  "accuracy": 88,
+  "hallucination_rate": 0,
+  "results": [
+    {
+      "id": 1,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 2,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 3,
+      "correct": false,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": false
+    },
+    {
+      "id": 4,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 5,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 6,
+      "correct": false,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": false
+    },
+    {
+      "id": 7,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 8,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 9,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 10,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 11,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 12,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 13,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 14,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 15,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 16,
+      "correct": false,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": false
+    },
+    {
+      "id": 17,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 18,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 19,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 20,
+      "correct": false,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": false
+    },
+    {
+      "id": 21,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 22,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 23,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 24,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 25,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 26,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 27,
+      "correct": false,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": true
+    },
+    {
+      "id": 28,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 29,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 30,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 31,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 32,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 33,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 34,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 35,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 36,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 37,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 38,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 39,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 40,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 41,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 42,
+      "correct": false,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": false
+    },
+    {
+      "id": 43,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 44,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 45,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 46,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 47,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    },
+    {
+      "id": 48,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 49,
+      "correct": true,
+      "confidence": 0.8,
+      "predicted": true,
+      "ground_truth": true
+    },
+    {
+      "id": 50,
+      "correct": true,
+      "confidence": 0.6,
+      "predicted": false,
+      "ground_truth": false
+    }
+  ],
+  "hallucinations": [],
+  "calibration": {
+    "0-0.2": {
+      "correct": 0,
+      "total": 0
+    },
+    "0.2-0.4": {
+      "correct": 0,
+      "total": 0
+    },
+    "0.4-0.6": {
+      "correct": 0,
+      "total": 0
+    },
+    "0.6-0.8": {
+      "correct": 19,
+      "total": 20
+    },
+    "0.8-1.0": {
+      "correct": 25,
+      "total": 30
+    }
+  }
+}

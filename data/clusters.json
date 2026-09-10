@@ -1,0 +1,68 @@
+{
+  "missing_aws": [
+    {
+      "id": 3,
+      "case": {
+        "id": 3,
+        "resume": "Carol. 3 years Python. Kubernetes. No AWS.",
+        "job_description": "Senior Python Engineer. 3+ years. AWS.",
+        "ground_truth": "fail",
+        "reason": "No AWS"
+      }
+    },
+    {
+      "id": 16,
+      "case": {
+        "id": 16,
+        "resume": "Peter. 3 years Python. No AWS mentioned.",
+        "job_description": "Senior Python Engineer. 3+ years. AWS.",
+        "ground_truth": "fail",
+        "reason": "No AWS"
+      }
+    }
+  ],
+  "years_mismatch": [],
+  "language_mismatch": [],
+  "other": [
+    {
+      "id": 6,
+      "case": {
+        "id": 6,
+        "resume": "Frank. 4 years Python. GCP not AWS.",
+        "job_description": "Senior Python Engineer. 3+ years. AWS.",
+        "ground_truth": "fail",
+        "reason": "Wrong cloud platform"
+      }
+    },
+    {
+      "id": 20,
+      "case": {
+        "id": 20,
+        "resume": "Tina. 6 years Python. GCP, not AWS.",
+        "job_description": "Senior Python Engineer. 3+ years. AWS.",
+        "ground_truth": "fail",
+        "reason": "Wrong cloud"
+      }
+    },
+    {
+      "id": 27,
+      "case": {
+        "id": 27,
+        "resume": "Amy. 10 years Python. AWS expert. Mentored team.",
+        "job_description": "Senior Python Engineer. 3+ years. AWS.",
+        "ground_truth": "pass",
+        "reason": "10 > 3, AWS + leadership"
+      }
+    },
+    {
+      "id": 42,
+      "case": {
+        "id": 42,
+        "resume": "Piper. 3 years Python. No AWS. DigitalOcean.",
+        "job_description": "Senior Python Engineer. 3+ years. AWS.",
+        "ground_truth": "fail",
+        "reason": "Wrong platform"
+      }
+    }
+  ]
+}
